@@ -1,4 +1,7 @@
 #include"udf.h"
+
+/*Calculation of a Couette velocity profile of a net zero flow rate on a boundary normal to a rotating roller*/
+
 /*Rotation velocity of the wall*/
 #define OMEGA 2.222222
 
